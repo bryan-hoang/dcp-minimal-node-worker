@@ -13,6 +13,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "dcp-client": "^3.2.6"
+    "dcp-client": "^4.4.6"
   }
 }
